@@ -1,4 +1,4 @@
-# SCD
+# SCD - Slowly Changing Dimensions 
 Essay about SCD types and its role in DWH
 
 Introduction to Data Warehousing (Quick Series)
